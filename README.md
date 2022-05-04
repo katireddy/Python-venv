@@ -27,5 +27,5 @@ Some paragraph with text.
 |MIND |HEALTH  |OFFICE  |STRESS|
 
 |-----|-------|------|-----------|
-Super |DUPER |CALL|OK|
+|Super |DUPER |CALL|OK|
 OK |OK| OK 
