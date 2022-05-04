@@ -1,4 +1,4 @@
 #Python
 - ## VENV
 - ## PIP
-    1.#### requirements.txt
+    1. #### requirements.txt
