@@ -26,6 +26,7 @@ Some paragraph with text.
 
 |MIND |HEALTH  |OFFICE  |STRESS|
 
-|-----|-------|------|-----------|
-|Super |DUPER |CALL|OK|
-OK |OK| OK 
+| heading | header | head |
+| --- | --- | --- |
+| content | more content | text |
+| more | more | more |
