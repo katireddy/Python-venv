@@ -30,3 +30,8 @@ Some paragraph with text.
 | --- | --- | --- |
 | content | more content | text |
 | more | more | more |
+
+| MIND | HELTH | MEDITATION | COURSES|
+| ----| ----| -----| ----|
+| MYNAME | GITHUB | PRACTISE | SUPER |
+| OK | OK | OK | OK|
